@@ -1,2 +1,3 @@
 # FORK-CarXplorer-Backend
-Original repo cannot be forked right now.
+The original repo is not available for forking yet.
+Due to this situation, older commits cannot be seen.
